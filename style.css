@@ -1,0 +1,44 @@
+.mikael {
+    max-width: 200px;
+    max-height: 200px;
+    border-radius: 8px;
+}
+
+.fenomeno {
+    width: 1000px;
+    max-height: 200px;
+    border-radius: 8px;
+    margin-top: 15%;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    font-family: 'Arial', sans-serif;
+    font-weight: bold;
+    gap: 3px;
+}
+
+.princ-fenomeno {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    height: 100vh;
+}
+
+ul {
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+}
+
+.cristian {
+    display: flex;
+    flex-direction: column;
+    padding: 1.2rem;
+    border: 3px solid black;
+    border-radius: 10px;
+}
